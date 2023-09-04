@@ -1,4 +1,3 @@
-```java
 import java.util.ArrayList;
 import java.util.List;
 
@@ -56,4 +55,4 @@ public class ExemploArrayList {
         System.out.println("A lista está vazia? " + listaVazia);
     }
 }
-```
+
